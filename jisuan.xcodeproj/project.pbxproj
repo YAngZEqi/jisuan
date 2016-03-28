@@ -83,6 +83,7 @@
 				F2EBE39D1CA3898D004C15B2 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		F2EBE39D1CA3898D004C15B2 /* Products */ = {
 			isa = PBXGroup;
